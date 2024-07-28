@@ -9,9 +9,9 @@ tags:
   - Linux
   - Debian
   - Redes
- 
----
+description: "Aprenda a configurar um IP estático em uma interface de rede no Debian."
 
+---
 # Configurando IP Estático no Debian
 
 Neste tutorial, aprenderemos a configurar uma interface de rede para utilizar um IP estático no Debian.
