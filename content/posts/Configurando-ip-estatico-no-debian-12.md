@@ -11,11 +11,7 @@ tags:
   - Redes
  
 ---
-<<<<<<< HEAD:content/posts/IpFix.md
 
-
-=======
->>>>>>> b737c99 (Alterando Posts):content/posts/Configurando-ip-estatico-no-debian-12.md
 # Configurando IP Estático no Debian
 
 Neste tutorial, aprenderemos a configurar uma interface de rede para utilizar um IP estático no Debian.
